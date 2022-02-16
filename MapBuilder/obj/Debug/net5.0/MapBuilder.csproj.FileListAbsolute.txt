@@ -1,0 +1,11 @@
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\bin\Debug\net5.0\MapBuilder.deps.json
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\bin\Debug\net5.0\MapBuilder.dll
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\bin\Debug\net5.0\ref\MapBuilder.dll
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\bin\Debug\net5.0\MapBuilder.pdb
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\obj\Debug\net5.0\MapBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\obj\Debug\net5.0\MapBuilder.AssemblyInfoInputs.cache
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\obj\Debug\net5.0\MapBuilder.AssemblyInfo.cs
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\obj\Debug\net5.0\MapBuilder.csproj.CoreCompileInputs.cache
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\obj\Debug\net5.0\MapBuilder.dll
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\obj\Debug\net5.0\ref\MapBuilder.dll
+C:\Users\sukvl\source\repos\MapBuilder\MapBuilder\obj\Debug\net5.0\MapBuilder.pdb
