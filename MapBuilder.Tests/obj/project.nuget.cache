@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NU1KgXocuhxrLcNEU5DTO+sOzSjfTQA2YbWGLC1SPDrwGkTf0uZ4Y9mJzxzz5q6S4iyr/1EAvjfaTE++Pc+IVQ==",
+  "dgSpecHash": "GL4tn8ZIqEPxTRpUQucP/99baoAVXt1Ha4UbOkeor8rf8PYl7pUosGxQE70CCVEKEWKUfZzXe6/U+3j4nBOIyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sukvl\\Source\\Repos\\Vlad-Suk\\MapBuilder\\MapBuilder.Tests\\MapBuilder.Tests.csproj",
+  "projectFilePath": "C:\\Users\\sukvl\\source\\repos\\Vlad-Suk\\MapBuilder\\MapBuilder.Tests\\MapBuilder.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sukvl\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\sukvl\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
