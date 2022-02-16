@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sukvl\\source\\repos\\MapBuilder\\MapBuilder\\MapBuilder.csproj": {}
+    "C:\\Users\\sukvl\\Source\\Repos\\Vlad-Suk\\MapBuilder\\MapBuilder\\MapBuilder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sukvl\\source\\repos\\MapBuilder\\MapBuilder\\MapBuilder.csproj": {
+    "C:\\Users\\sukvl\\Source\\Repos\\Vlad-Suk\\MapBuilder\\MapBuilder\\MapBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sukvl\\source\\repos\\MapBuilder\\MapBuilder\\MapBuilder.csproj",
+        "projectUniqueName": "C:\\Users\\sukvl\\Source\\Repos\\Vlad-Suk\\MapBuilder\\MapBuilder\\MapBuilder.csproj",
         "projectName": "MapBuilder",
-        "projectPath": "C:\\Users\\sukvl\\source\\repos\\MapBuilder\\MapBuilder\\MapBuilder.csproj",
+        "projectPath": "C:\\Users\\sukvl\\Source\\Repos\\Vlad-Suk\\MapBuilder\\MapBuilder\\MapBuilder.csproj",
         "packagesPath": "C:\\Users\\sukvl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sukvl\\source\\repos\\MapBuilder\\MapBuilder\\obj\\",
+        "outputPath": "C:\\Users\\sukvl\\Source\\Repos\\Vlad-Suk\\MapBuilder\\MapBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
