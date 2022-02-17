@@ -37,7 +37,7 @@ namespace MapBuilder
         {
             var varianceFloor = Math.Abs(current.Floor - next.Floor);
             var varianceSection = Math.Abs(current.Section - next.Section);
-            if (next.Floor == 1 || next.Floor == 3 || next.Floor == 5 || varianceFloor < 2 || (varianceFloor == 2 && varianceSection == 1))
+            if (next.Floor % 2 == 1 || varianceFloor < 2 || (varianceFloor == 2 && varianceSection == 1))
             {
                 return false;
             }
@@ -49,7 +49,7 @@ namespace MapBuilder
         {
             var varianceFloor = Math.Abs(current.Floor - next.Floor);
             var varianceSection = Math.Abs(current.Section - next.Section);
-            if (next.Floor == 2 || next.Floor == 4 || varianceFloor < 2 || (varianceFloor == 2 && varianceSection == 1))
+            if (next.Floor % 2 == 0 || varianceFloor < 2 || (varianceFloor == 2 && varianceSection == 1))
             {
                 return false;
             }
@@ -61,9 +61,9 @@ namespace MapBuilder
         {
             var varianceFloor = Math.Abs(current.Floor - next.Floor);
             var varianceSection = Math.Abs(current.Section - next.Section);
-            if ((next.Floor == 2 || next.Floor == 4) && (varianceFloor == 2 && varianceSection == 0 && current.Section == 2))
+            if (next.Floor % 2 == 0 && varianceFloor == 2 && varianceSection == 0 && current.Section == 2)
                 return true;
-            else if ((next.Floor == 1 || next.Floor == 3 || next.Floor == 5) && (varianceFloor == 2 && varianceSection == 0 && current.Section == 1))
+            else if (next.Floor % 2 == 1 && varianceFloor == 2 && varianceSection == 0 && current.Section == 1)
                 return true;
             else if (Elevator1(current, next) || Elevator2(current, next))
                 return false;
